@@ -1,4 +1,4 @@
-# 🇮🇳 UPI Growth Analysis & Prediction in India
+#  UPI Growth Analysis & Prediction in India
 
 A Data Science and Machine Learning project that analyzes the growth of India's Unified Payments Interface (UPI) using monthly NPCI statistics from April 2016 to September 2026. The project explores transaction volume, transaction value, and bank participation, with a focus on changes in digital payment adoption around the COVID-19 period. It also applies Multiple Linear Regression to predict next-month UPI transaction volume.
 
